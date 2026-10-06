@@ -1,0 +1,6 @@
+{
+  "projectName": "FinGraph",
+  "environment": "Development",
+  "dotnetVersion": "9.0",
+  "nodeVersion": "20.0.0"
+}

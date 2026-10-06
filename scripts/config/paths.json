@@ -1,0 +1,6 @@
+{
+  "solutionRelativePath": "src/backend/FinGraph.slnx",
+  "apiProjectPath": "src/backend/FinGraph.Api/FinGraph.Api.csproj",
+  "frontendPath": "src/frontend",
+  "dockerComposePath": "docker/docker-compose.yml"
+}

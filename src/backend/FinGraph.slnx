@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../../tests/FinGraph.Api.FunctionalTests/FinGraph.Api.FunctionalTests.csproj" />
+  <Project Path="../../tests/FinGraph.Application.UnitTests/FinGraph.Application.UnitTests.csproj" />
+  <Project Path="../../tests/FinGraph.Domain.UnitTests/FinGraph.Domain.UnitTests.csproj" />
+  <Project Path="../../tests/FinGraph.Infrastructure.IntegrationTests/FinGraph.Infrastructure.IntegrationTests.csproj" />
+  <Project Path="FinGraph.Api/FinGraph.Api.csproj" />
+  <Project Path="FinGraph.Application/FinGraph.Application.csproj" />
+  <Project Path="FinGraph.Domain/FinGraph.Domain.csproj" />
+  <Project Path="FinGraph.Infrastructure/FinGraph.Infrastructure.csproj" />
+</Solution>

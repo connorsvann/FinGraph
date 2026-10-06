@@ -1,0 +1,8 @@
+{
+  "postgres": 5432,
+  "redis": 6379,
+  "rabbitmq": 5672,
+  "rabbitmqManagement": 15672,
+  "backendApi": 5000,
+  "frontendUi": 5173
+}
